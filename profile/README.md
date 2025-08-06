@@ -28,7 +28,7 @@ We’re a full-stack lab for ambitious founders building the future:
 
 ---
 
-## 🌟 Why Founders Choose AxisLayer
+## 🌟 Why Founders Choose LunavLabs
 
 - **AI-Native Team** – We’ve launched real-world tools with GPT-4, Claude, Pinecone, and open-source LLMs  
 - **Fast Delivery** – We don’t just build demos—we ship real tools that scale  
