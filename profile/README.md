@@ -111,7 +111,7 @@ We’ve shipped products for healthcare, fintech, eCommerce, and B2B SaaS.
 
 ## 🌐 Let’s Connect
 
-- [🔗 Website](https://luxenlabs.com)
+- [🔗 Website](https://lunavlabs.com)
 - [🐦 Twitter / X](https://twitter.com/lunavlabs
 
 ---
